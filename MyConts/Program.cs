@@ -18,6 +18,8 @@ namespace MyConts
             Console.WriteLine(Months);
             Console.WriteLine(Days);
             Console.WriteLine(Weeks);
+            
+            //By MAZEN instagram c64d
         }
     }
 }
